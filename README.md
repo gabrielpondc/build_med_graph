@@ -28,63 +28,63 @@ ORDER BY relevance DESC LIMIT 10
 </thead>
 <tbody>
   <tr>
-    <td>"周晶晶"</td>
+    <td>"周XX"</td>
     <td>"老年人支原体肺炎"</td>
-    <td>"呼吸内科"</td>
+    <td>"内科"</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>"李鑫"</td>
+    <td>"李X"</td>
     <td>"老年人支原体肺炎"</td>
-    <td>"呼吸内科"</td>
+    <td>"内科"</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>"应秋华"</td>
+    <td>"应XX"</td>
     <td>"小儿埃可及柯萨奇病毒感染"</td>
-    <td>"血液内科"</td>
+    <td>"内科"</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>"潘胜美"</td>
+    <td>"潘XX"</td>
     <td>"小儿埃可及柯萨奇病毒感染"</td>
-    <td>"血液内科"</td>
+    <td>"内科"</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>"楼金杰"</td>
+    <td>"楼XX"</td>
     <td>"小儿埃可及柯萨奇病毒感染"</td>
-    <td>"血液内科"</td>
+    <td>"内科"</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>"郑戴波"</td>
+    <td>"郑XX"</td>
     <td>"小儿埃可及柯萨奇病毒感染"</td>
-    <td>"血液内科"</td>
+    <td>"内科"</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>"李梦瑶"</td>
+    <td>"李XX"</td>
     <td>"小儿支原体肺炎"</td>
-    <td>"中医儿科"</td>
+    <td>"儿科"</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>"沈桂珍"</td>
+    <td>"沈XX"</td>
     <td>"小儿支原体肺炎"</td>
-    <td>"中医儿科"</td>
+    <td>"儿科"</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>"王倩"</td>
+    <td>"王XX"</td>
     <td>"小儿支原体肺炎"</td>
-    <td>"中医儿科"</td>
+    <td>"儿科"</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>"丁瑾"</td>
+    <td>"丁X"</td>
     <td>"小儿支原体肺炎"</td>
-    <td>"中医儿科"</td>
+    <td>"中医科"</td>
     <td>3</td>
   </tr>
 </tbody>
