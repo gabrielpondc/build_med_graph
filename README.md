@@ -11,7 +11,7 @@ WITH department,d,relevance
 MATCH (department)-[:works_in]-(doc:Doctors)
 WITH department,d,relevance,doc
 MATCH (department)
-WHERE doc.working_hospital ='宁波市中医院'
+WHERE doc.working_hospital ='中医院'
 RETURN doc.name, d.name, department.name,relevance 
 ORDER BY relevance DESC LIMIT 10
 ``````
